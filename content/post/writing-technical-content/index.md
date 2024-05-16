@@ -1,6 +1,6 @@
 ---
 title: Внешний курс - Четвертый этап
-date: 2024-05-8
+date: 2024-05-10
 math: true
 image:
   placement: 2
